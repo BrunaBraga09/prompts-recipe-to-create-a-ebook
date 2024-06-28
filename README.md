@@ -11,7 +11,7 @@
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
-<a href="https://github.com/user-attachments/files/16033893/Ebook.-.Guia.Pratico.de.IA.e.Machine.Learning.Gestao.de.Codigos.para.Treinamento.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/BrunaBraga09/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook%20-%20Guia%20Pr%C3%A1tico%20de%20IA%20e%20Machine%20Learning%20(Gest%C3%A3o%20de%20C%C3%B3digos%20para%20Treinamento).pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
